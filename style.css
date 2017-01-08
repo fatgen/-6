@@ -1,12 +1,12 @@
 @charset "utf-8";
 
-body .day{
+body.day {
   background-color: #f2f3ef;
 }
 body.night {
   background-color: #553958;
 }
-h1 .day {
+h1.day {
   color: #333;
 }
 h1.night {
